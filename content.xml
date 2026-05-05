@@ -1,0 +1,989 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605052129096OV8FJ</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260505212909KUP82D</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SdA Cuidemos nuestro medio ambiente</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Cuidemos nuestro medio ambiente</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Silvia Pérez Barrionuevo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778009343125</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mot0utbx-hg06esc4z</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación y descripción del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot0utbx-hg06esc4z</odePageId>
+      <odeBlockId>block-1778008210086-pefwpyiqf</odeBlockId>
+      <blockName>Comenzamos nuestro proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot0utbx-hg06esc4z</odePageId>
+          <odeBlockId>block-1778008210086-pefwpyiqf</odeBlockId>
+          <odeIdeviceId>idevice-1778008210079-2ia2hnfbb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Bienvenidos al proyecto "Cuidemos nuestro ambiente".</p>
+<p>A través de él, vais a aprender cómo proteger nuestro planeta, descubriendo la importancia de cuidar la naturaleza, reducir la contaminación y utilizar los recursos de forma responsable.</p>
+<p>Durante el trabajo, investigaréis utilizando internet, accediendo a páginas seguras y fiables para encontrar información sobre el medio ambiente, el reciclaje, el ahorro de energía y otras acciones que ayudan a cuidar nuestro entorno.</p>
+<p>Después de trabajar los contenidos en clase, deberéis preparar una presentación grupal utilizando la herramienta CANVA. Luego, la compartiréis con vuestros compañeros mediante una exposición en clase. Finalmente, de forma individual tendréis que elaborar un cartel informativo sobre dicho cuidado.</p>
+<p><iframe width="1000" height="500" src="{{context_path}}/content/resources/¡Cuidemos nuestro medio ambiente!.pdf"></iframe></p>
+<p style="text-align: center;"><span style="font-size: 8pt;"> Autoría: Silvia Pérez Barrionuevo</span><br /><span style="font-size: 8pt;">Licencia: CC BY-SA 4.0</span><br /><span style="font-size: 8pt;">Descripción: Presentación creada en CANVA.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778008210079-2ia2hnfbb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Bienvenidos al proyecto \"Cuidemos nuestro ambiente\".</p>\n<p>A través de él, vais a aprender cómo proteger nuestro planeta, descubriendo la importancia de cuidar la naturaleza, reducir la contaminación y utilizar los recursos de forma responsable.</p>\n<p>Durante el trabajo, investigaréis utilizando internet, accediendo a páginas seguras y fiables para encontrar información sobre el medio ambiente, el reciclaje, el ahorro de energía y otras acciones que ayudan a cuidar nuestro entorno.</p>\n<p>Después de trabajar los contenidos en clase, deberéis preparar una presentación grupal utilizando la herramienta CANVA. Luego, la compartiréis con vuestros compañeros mediante una exposición en clase. Finalmente, de forma individual tendréis que elaborar un cartel informativo sobre dicho cuidado.</p>\n<p><iframe width=\"1000\" height=\"500\" src=\"{{context_path}}/content/resources/¡Cuidemos nuestro medio ambiente!.pdf\"></iframe></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 8pt;\"> Autoría: Silvia Pérez Barrionuevo</span><br /><span style=\"font-size: 8pt;\">Licencia: CC BY-SA 4.0</span><br /><span style=\"font-size: 8pt;\">Descripción: Presentación creada en CANVA.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot0utc3-qhrzum9rd</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot0utc3-qhrzum9rd</odePageId>
+      <odeBlockId>block-1778000760564-za0za2h0k</odeBlockId>
+      <blockName>Navegamos seguros</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot0utc3-qhrzum9rd</odePageId>
+          <odeBlockId>block-1778000760564-za0za2h0k</odeBlockId>
+          <odeIdeviceId>idevice-1778000760560-di54krks2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;">Antes de comenzar el proyecto es necesario que conozcas información importante para navegar de forma segura.</p>
+<p style="text-align: center;"><iframe width="1000" height="500" src="{{context_path}}/content/resources/¡SEGURIDAD DIGITAL!.pdf"></iframe></p>
+<p style="text-align: center;"><span style="font-size: 8pt;"> Autoría: Silvia Pérez Barrionuevo</span><br /><span style="font-size: 8pt;">Licencia: CC BY-SA 4.0</span><br /><span style="font-size: 8pt;">Descripción: Presentación creada en CANVA.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778000760560-di54krks2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\">Antes de comenzar el proyecto es necesario que conozcas información importante para navegar de forma segura.</p>\n<p style=\"text-align: center;\"><iframe width=\"1000\" height=\"500\" src=\"{{context_path}}/content/resources/¡SEGURIDAD DIGITAL!.pdf\"></iframe></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 8pt;\"> Autoría: Silvia Pérez Barrionuevo</span><br /><span style=\"font-size: 8pt;\">Licencia: CC BY-SA 4.0</span><br /><span style=\"font-size: 8pt;\">Descripción: Presentación creada en CANVA.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot0utc6-i5ehc7ewu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción producto final</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot0utc6-i5ehc7ewu</odePageId>
+      <odeBlockId>block-1778001085037-o12hp2q2v</odeBlockId>
+      <blockName>Presentación digital</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot0utc6-i5ehc7ewu</odePageId>
+          <odeBlockId>block-1778001085037-o12hp2q2v</odeBlockId>
+          <odeIdeviceId>idevice-1778001084999-2ddoxge5t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: left;">En esta situación de aprendizaje, llamada “Cuidemos nuestro medio ambiente”, vais a trabajar para conocer mejor cómo podemos proteger nuestro planeta y actuar de forma responsable en nuestro día a día.</p>
+<p style="text-align: left;"><br />Con esta actividad aprenderéis a recoger información sobre el cuidado del medio ambiente, como el reciclaje, la reducción de residuos, el ahorro de agua y energía, y la protección de la naturaleza, para presentarla de forma visual, clara y atractiva.</p>
+<p style="text-align: left;"><br />El trabajo final consistirá en una presentación grupal utilizando la herramienta Canva, donde compartiréis la información investigada con vuestros compañeros. Además, de forma individual, realizaréis carteles sobre el cuidado del medio ambiente, en los que reflejaréis mensajes importantes para concienciar a los demás.</p>
+<p style="text-align: left;"><br />Canva os permitirá elegir entre muchas plantillas, imágenes, iconos y estilos, para que podáis personalizar vuestros trabajos según vuestros gustos y ritmo de aprendizaje. Es una herramienta sencilla de usar que os ayudará a mejorar vuestra competencia digital.<br />A lo largo del proyecto, no solo investigaréis y aprenderéis contenidos nuevos, sino que también decidiréis cómo presentarlos de manera creativa. Así, seréis los protagonistas de vuestro propio aprendizaje.</p>
+<p style="text-align: left;"><br />Finalmente, esta actividad os permitirá trabajar de forma activa, buscando información, organizándola y comunicándola a los demás, mientras desarrolláis vuestra creatividad, fomentáis el trabajo en equipo y tomáis conciencia de la importancia de cuidar el medio ambiente.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778001084999-2ddoxge5t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: left;\">En esta situación de aprendizaje, llamada “Cuidemos nuestro medio ambiente”, vais a trabajar para conocer mejor cómo podemos proteger nuestro planeta y actuar de forma responsable en nuestro día a día.</p>\n<p style=\"text-align: left;\"><br />Con esta actividad aprenderéis a recoger información sobre el cuidado del medio ambiente, como el reciclaje, la reducción de residuos, el ahorro de agua y energía, y la protección de la naturaleza, para presentarla de forma visual, clara y atractiva.</p>\n<p style=\"text-align: left;\"><br />El trabajo final consistirá en una presentación grupal utilizando la herramienta Canva, donde compartiréis la información investigada con vuestros compañeros. Además, de forma individual, realizaréis carteles sobre el cuidado del medio ambiente, en los que reflejaréis mensajes importantes para concienciar a los demás.</p>\n<p style=\"text-align: left;\"><br />Canva os permitirá elegir entre muchas plantillas, imágenes, iconos y estilos, para que podáis personalizar vuestros trabajos según vuestros gustos y ritmo de aprendizaje. Es una herramienta sencilla de usar que os ayudará a mejorar vuestra competencia digital.<br />A lo largo del proyecto, no solo investigaréis y aprenderéis contenidos nuevos, sino que también decidiréis cómo presentarlos de manera creativa. Así, seréis los protagonistas de vuestro propio aprendizaje.</p>\n<p style=\"text-align: left;\"><br />Finalmente, esta actividad os permitirá trabajar de forma activa, buscando información, organizándola y comunicándola a los demás, mientras desarrolláis vuestra creatividad, fomentáis el trabajo en equipo y tomáis conciencia de la importancia de cuidar el medio ambiente.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot0utc9-enlb9u199</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de contenidos</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot0utc9-enlb9u199</odePageId>
+      <odeBlockId>block-1778001304911-iy3rsc80m</odeBlockId>
+      <blockName>Herramientas y aplicaciones</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot0utc9-enlb9u199</odePageId>
+          <odeBlockId>block-1778001304911-iy3rsc80m</odeBlockId>
+          <odeIdeviceId>idevice-1778001304903-saq9ka9vb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para facilitaros el trabajo, he creado un symbaloo en el que se recogen varias herramientas y aplicaciones que os serán necesarias para la búsqueda de información y elaboración del proyecto. </p>
+<p><iframe width="930px" height="620px" frameborder="0" noresize="noresize" src="https://www.symbaloo.com/embed/shared/AAAABG7DqXwAA41_l12FPQ=="></iframe></p>
+<p style="text-align: center;">Recopilación de enlaces creadas desde Symbaloo.</p>
+<p style="text-align: center;">Elaborado por Silvia Pérez Barrionuevo.</p>
+<p></p>
+<p>Además, os comparto la herramienta Padlet, con todo el material y la información que iremos trabajando a lo largo del proyecto.</p>
+<div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/21awnxdnzdb6j8u5" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write" data-mce-fragment="1"></iframe></p>
+<div style="display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;"><a href="https://padlet.com?ref=embed" style="display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;" target="_blank" rel="noopener"><span aria-hidden="" style="color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;">Made with</span><img src="https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png" height="12" style="padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;" alt="Hecho con Padlet" /></a></div>
+<div style="display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;"><br /></div>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778001304903-saq9ka9vb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para facilitaros el trabajo, he creado un symbaloo en el que se recogen varias herramientas y aplicaciones que os serán necesarias para la búsqueda de información y elaboración del proyecto. </p>\n<p><iframe width=\"930px\" height=\"620px\" frameborder=\"0\" noresize=\"noresize\" src=\"https://www.symbaloo.com/embed/shared/AAAABG7DqXwAA41_l12FPQ==\"></iframe></p>\n<p style=\"text-align: center;\">Recopilación de enlaces creadas desde Symbaloo.</p>\n<p style=\"text-align: center;\">Elaborado por Silvia Pérez Barrionuevo.</p>\n<p></p>\n<p>Además, os comparto la herramienta Padlet, con todo el material y la información que iremos trabajando a lo largo del proyecto.</p>\n<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/21awnxdnzdb6j8u5\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\" data-mce-fragment=\"1\"></iframe></p>\n<div style=\"display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;\"><a href=\"https://padlet.com?ref=embed\" style=\"display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;\" target=\"_blank\" rel=\"noopener\"><span aria-hidden=\"\" style=\"color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;\">Made with</span><img src=\"https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png\" height=\"12\" style=\"padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;\" alt=\"Hecho con Padlet\" /></a></div>\n<div style=\"display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;\"><br /></div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot0utcb-yycrdd2ky</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot0utcb-yycrdd2ky</odePageId>
+      <odeBlockId>block-1778002157741-iukibwyb4</odeBlockId>
+      <blockName>Planificacación del proyecto por sesiones</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot0utcb-yycrdd2ky</odePageId>
+          <odeBlockId>block-1778002157741-iukibwyb4</odeBlockId>
+          <odeIdeviceId>idevice-1778002157718-hail4ehd1</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://www.mindomo.com/es/mindmap/5bebd408001e4a0ba42c9da3f2ca0480" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot0utcc-nrh0p5e59</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Criterios de evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot0utcc-nrh0p5e59</odePageId>
+      <odeBlockId>block-1778002315382-0gwob649x</odeBlockId>
+      <blockName>¿Qué pretendemos conseguir?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot0utcc-nrh0p5e59</odePageId>
+          <odeBlockId>block-1778002315382-0gwob649x</odeBlockId>
+          <odeIdeviceId>idevice-1778002315368-opjohw47i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta sección encontrarás los criterios de evaluación del proyecto relacionadas con el área de Conocimiento del Medio. Gracias a ellos, podrás ver qué aspectos se van a tener en cuenta para valorar tu trabajo. Te ayudará a saber qué se espera de ti y cómo puedes hacerlo lo mejor posible.</p>
+<p style="text-align: center;"><strong>5.3.b. </strong>Valorar, proteger y mostrar actitudes de conservación y mejora del patrimonio natural y cultural a través de propuestas y acciones que reflejan compromisos y conductas en favor de la sostenibilidad, respondiendo a retos naturales, sociales y culturales planteados.</p>
+<p style="text-align: center;"><strong>2.2.b. </strong>Buscar, seleccionar y contrastar información, de diferentes fuentes seguras y fiables, usando los criterios de fiabilidad de fuentes, adquiriendo léxico científico básico, utilizándose en investigaciones relacionadas con el medio natural, social y cultural.</p>
+<p style="text-align: center;"><strong>2.1.b. </strong>Demostrar y mantener la curiosidad sobre un tema relacionado con el medio natural, social o cultural específico, formulando preguntas y realizando predicciones razonadas.</p>
+<p style="text-align: center;"><strong>2.1.b.</strong> Demostrar y mantener la curiosidad sobre un tema relacionado con el medio natural, social o cultural específico, formulando preguntas y realizando predicciones razonadas.</p>
+<p style="text-align: center;"><strong>1.1.b. </strong>Utilizar recursos digitales de acuerdo con las necesidades del contexto educativo de forma segura y eficiente, buscando información, comunicándose y trabajando de forma individual, en equipo y en red, colaborando y creando contenidos digitales sencillos, interpretando, organizando y analizando la información y aumentando la productividad y eficiencia en el propio trabajo.</p>
+<p style="text-align: center;"><strong>2.5.b. </strong>Comunicar los resultados de las investigaciones adaptando el mensaje y el formato a la audiencia que va dirigido, utilizando lenguaje científico y explicando los pasos seguidos.</p>
+<p style="text-align: center;"><strong>3.1.b. </strong>Plantear problemas de diseño que se resuelvan con la creación de un prototipo o solución digital, evaluando necesidades del entorno y estableciendo objetivos concretos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778002315368-opjohw47i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta sección encontrarás los criterios de evaluación del proyecto relacionadas con el área de Conocimiento del Medio. Gracias a ellos, podrás ver qué aspectos se van a tener en cuenta para valorar tu trabajo. Te ayudará a saber qué se espera de ti y cómo puedes hacerlo lo mejor posible.</p>\n<p style=\"text-align: center;\"><strong>5.3.b. </strong>Valorar, proteger y mostrar actitudes de conservación y mejora del patrimonio natural y cultural a través de propuestas y acciones que reflejan compromisos y conductas en favor de la sostenibilidad, respondiendo a retos naturales, sociales y culturales planteados.</p>\n<p style=\"text-align: center;\"><strong>2.2.b. </strong>Buscar, seleccionar y contrastar información, de diferentes fuentes seguras y fiables, usando los criterios de fiabilidad de fuentes, adquiriendo léxico científico básico, utilizándose en investigaciones relacionadas con el medio natural, social y cultural.</p>\n<p style=\"text-align: center;\"><strong>2.1.b. </strong>Demostrar y mantener la curiosidad sobre un tema relacionado con el medio natural, social o cultural específico, formulando preguntas y realizando predicciones razonadas.</p>\n<p style=\"text-align: center;\"><strong>2.1.b.</strong> Demostrar y mantener la curiosidad sobre un tema relacionado con el medio natural, social o cultural específico, formulando preguntas y realizando predicciones razonadas.</p>\n<p style=\"text-align: center;\"><strong>1.1.b. </strong>Utilizar recursos digitales de acuerdo con las necesidades del contexto educativo de forma segura y eficiente, buscando información, comunicándose y trabajando de forma individual, en equipo y en red, colaborando y creando contenidos digitales sencillos, interpretando, organizando y analizando la información y aumentando la productividad y eficiencia en el propio trabajo.</p>\n<p style=\"text-align: center;\"><strong>2.5.b. </strong>Comunicar los resultados de las investigaciones adaptando el mensaje y el formato a la audiencia que va dirigido, utilizando lenguaje científico y explicando los pasos seguidos.</p>\n<p style=\"text-align: center;\"><strong>3.1.b. </strong>Plantear problemas de diseño que se resuelvan con la creación de un prototipo o solución digital, evaluando necesidades del entorno y estableciendo objetivos concretos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot0utcd-xaxcqlowg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot0utcd-xaxcqlowg</odePageId>
+      <odeBlockId>block-1778002588731-3ynfm7hxk</odeBlockId>
+      <blockName>¿Cómo evaluaremos?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot0utcd-xaxcqlowg</odePageId>
+          <odeBlockId>block-1778002588731-3ynfm7hxk</odeBlockId>
+          <odeIdeviceId>idevice-1778002588706-vg8dr6o69</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta sección encontrarás los instrumentos de evaluación que vamos a utilizar en el proyecto. Aquí podrás ver cómo se valorará tu trabajo. Te servirá para entender mejor cómo se te va a evaluar y qué debes tener en cuenta para hacerlo bien.</p>
+<p><br />En primer lugar, usaremos una rúbrica de evaluación que recoge diferentes ítems para valorar los criterios anteriormente expuestos, con una escala de valoración del 1 al 4.</p>
+<p><iframe width="1000" height="500" src="{{context_path}}/content/resources/Rúbrica presentación Canva.pdf"></iframe></p>
+<p style="text-align: center;"><span style="font-size: 8pt;">Autoría: Silvia Pérez mediante iDoceo.</span></p>
+<p style="text-align: center;"><span style="font-size: 8pt;">Licencia: Licencia: CC BY-SA 4.0</span></p>
+<p>Además, vosotros también valoraréis vuestro trabajo mediante la diana de autoevaluación. Es una herramienta que te ayudará a reflexionar sobre tu trabajo de forma visual.</p>
+<p><br />La diana está dividida en partes, y cada una corresponde a un aspecto del proyecto (por ejemplo: trabajo en equipo, presentación, uso de la información, creatividad…). En cada parte tendrás que marcar hasta dónde crees que has llegado, desde el centro (necesito mejorar) hasta el borde (lo he hecho muy bien).</p>
+<p><br />Después, podrás ver de forma clara cuáles son tus puntos fuertes y en qué puedes mejorar. Esto te ayudará a aprender mejor y a seguir avanzando en tu trabajo.</p>
+<p><iframe width="1000" height="500" src="{{context_path}}/content/resources/Diana de autoevaluación.pdf"></iframe></p>
+<p style="text-align: center;"><span style="font-size: 8pt;">Autoría: Silvia Pérez Barrionuevo</span><br /><span style="font-size: 8pt;">Licencia: CC BY-SA 4.0</span><br /><span style="font-size: 8pt;">Descripción: Diana de autoevaluación creada en CANVA.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778002588706-vg8dr6o69","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta sección encontrarás los instrumentos de evaluación que vamos a utilizar en el proyecto. Aquí podrás ver cómo se valorará tu trabajo. Te servirá para entender mejor cómo se te va a evaluar y qué debes tener en cuenta para hacerlo bien.</p>\n<p><br />En primer lugar, usaremos una rúbrica de evaluación que recoge diferentes ítems para valorar los criterios anteriormente expuestos, con una escala de valoración del 1 al 4.</p>\n<p><iframe width=\"1000\" height=\"500\" src=\"{{context_path}}/content/resources/Rúbrica presentación Canva.pdf\"></iframe></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 8pt;\">Autoría: Silvia Pérez mediante iDoceo.</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 8pt;\">Licencia: Licencia: CC BY-SA 4.0</span></p>\n<p>Además, vosotros también valoraréis vuestro trabajo mediante la diana de autoevaluación. Es una herramienta que te ayudará a reflexionar sobre tu trabajo de forma visual.</p>\n<p><br />La diana está dividida en partes, y cada una corresponde a un aspecto del proyecto (por ejemplo: trabajo en equipo, presentación, uso de la información, creatividad…). En cada parte tendrás que marcar hasta dónde crees que has llegado, desde el centro (necesito mejorar) hasta el borde (lo he hecho muy bien).</p>\n<p><br />Después, podrás ver de forma clara cuáles son tus puntos fuertes y en qué puedes mejorar. Esto te ayudará a aprender mejor y a seguir avanzando en tu trabajo.</p>\n<p><iframe width=\"1000\" height=\"500\" src=\"{{context_path}}/content/resources/Diana de autoevaluación.pdf\"></iframe></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 8pt;\">Autoría: Silvia Pérez Barrionuevo</span><br /><span style=\"font-size: 8pt;\">Licencia: CC BY-SA 4.0</span><br /><span style=\"font-size: 8pt;\">Descripción: Diana de autoevaluación creada en CANVA.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot0utcg-3c0jl6rxn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot0utcg-3c0jl6rxn</odePageId>
+      <odeBlockId>block-1778003355724-ryvzna375</odeBlockId>
+      <blockName>Guía didáctica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot0utcg-3c0jl6rxn</odePageId>
+          <odeBlockId>block-1778003355724-ryvzna375</odeBlockId>
+          <odeIdeviceId>idevice-1778003355719-xc19d2gl2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este documento encontrarás la guía didáctica de nuestro proyecto. En ella se explica, de forma organizada, todas las tareas que vamos a ir realizando a lo largo de las sesiones, cómo nos agruparemos, etc.</p>
+<p>Además, cada una de estas actividades está relacionada con los criterios de evaluación, que nos ayudan a saber qué estamos aprendiendo y cómo vamos avanzando.</p>
+<p>De esta manera, podremos seguir paso a paso nuestro trabajo y entender mejor todo lo que vamos consiguiendo durante el proyecto.</p>
+<p><embed width="1000" height="500" src="{{context_path}}/content/resources/Guía didáctica.pdf" type="application/pdf"></embed></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778003355719-xc19d2gl2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este documento encontrarás la guía didáctica de nuestro proyecto. En ella se explica, de forma organizada, todas las tareas que vamos a ir realizando a lo largo de las sesiones, cómo nos agruparemos, etc.</p>\n<p>Además, cada una de estas actividades está relacionada con los criterios de evaluación, que nos ayudan a saber qué estamos aprendiendo y cómo vamos avanzando.</p>\n<p>De esta manera, podremos seguir paso a paso nuestro trabajo y entender mejor todo lo que vamos consiguiendo durante el proyecto.</p>\n<p><embed width=\"1000\" height=\"500\" src=\"{{context_path}}/content/resources/Guía didáctica.pdf\" type=\"application/pdf\"></embed></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot0utcj-nainzmkig</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos y descarga</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot0utcj-nainzmkig</odePageId>
+      <odeBlockId>block-1778003598294-d9hgnplue</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot0utcj-nainzmkig</odePageId>
+          <odeBlockId>block-1778003598294-d9hgnplue</odeBlockId>
+          <odeIdeviceId>idevice-1778003598277-q4fvyh81m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Autoría</strong><br /></p>
+<p>Silvia Pérez Barrionuevo</p>
+<p><strong>Descripción</strong><br />Este recurso educativo forma parte de la situación de aprendizaje “Cuidemos nuestro medio ambiente”, diseñada para el alumnado de 6º de Educación Primaria.<br /></p>
+<p>El objetivo de este proyecto es que aprendamos a cuidar mejor nuestro planeta y a entender por qué es tan importante proteger el medio ambiente.</p>
+<p>Vamos a descubrir qué problemas existen hoy en día, como la contaminación o el cambio climático, y pensaremos juntos en posibles soluciones para ayudar a nuestro entorno.</p>
+<p>Además, aprenderemos a buscar información y a utilizar herramientas digitales para investigar, trabajar en equipo y compartir todo lo que vayamos aprendiendo.</p>
+<p> También, aprenderemos la importancia del trabajo cooperativo.</p>
+<p><strong>Licencia de uso</strong><br /></p>
+<p>Este recurso se comparte bajo licencia:</p>
+<p>Creative Commons BY-SA 4.0</p>
+<p>Esto significa que puede ser utilizado, adaptado y compartido, siempre que se reconozca la autoría y se mantenga la misma licencia.</p>
+<p>Enlace al archivo editable:</p>
+<p><a href="https://drive.google.com/file/d/1mi6SPWpcvpx-_awLHpjbS5zOiZ8sKCdx/view" title="ARCHIVO EDITABLE">https://drive.google.com/file/d/1mi6SPWpcvpx-_awLHpjbS5zOiZ8sKCdx/view</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778003598277-q4fvyh81m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autoría</strong><br /></p>\n<p>Silvia Pérez Barrionuevo</p>\n<p><strong>Descripción</strong><br />Este recurso educativo forma parte de la situación de aprendizaje “Cuidemos nuestro medio ambiente”, diseñada para el alumnado de 6º de Educación Primaria.<br /></p>\n<p>El objetivo de este proyecto es que aprendamos a cuidar mejor nuestro planeta y a entender por qué es tan importante proteger el medio ambiente.</p>\n<p>Vamos a descubrir qué problemas existen hoy en día, como la contaminación o el cambio climático, y pensaremos juntos en posibles soluciones para ayudar a nuestro entorno.</p>\n<p>Además, aprenderemos a buscar información y a utilizar herramientas digitales para investigar, trabajar en equipo y compartir todo lo que vayamos aprendiendo.</p>\n<p> También, aprenderemos la importancia del trabajo cooperativo.</p>\n<p><strong>Licencia de uso</strong><br /></p>\n<p>Este recurso se comparte bajo licencia:</p>\n<p>Creative Commons BY-SA 4.0</p>\n<p>Esto significa que puede ser utilizado, adaptado y compartido, siempre que se reconozca la autoría y se mantenga la misma licencia.</p>\n<p>Enlace al archivo editable:</p>\n<p><a href=\"https://drive.google.com/file/d/1mi6SPWpcvpx-_awLHpjbS5zOiZ8sKCdx/view\" title=\"ARCHIVO EDITABLE\">https://drive.google.com/file/d/1mi6SPWpcvpx-_awLHpjbS5zOiZ8sKCdx/view</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
